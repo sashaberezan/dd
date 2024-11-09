@@ -1,0 +1,92 @@
+<div class="container">
+
+						<div class="navbar-header">
+							<button type="button" class="navbar-toggle"><i class="fa fa-bars"></i></button>
+							<div class="mobcart">
+<div id="cart" class="btn-group btn-block">
+ <button type="button" data-loading-text="Завантаження..." class="btn-cart"><a href="https://nairi.ua/checkout/"><i class="fa fa-shopping-cart text-l i-white cart-nom qweТоварів: 0 (0.00 грн)"></i> <span class="text-s cart-nom qweТоварів: 0 (0.00 грн)" id="cart-total">Товарів: 0 (0.00 грн)</span></a></button>
+
+</div>
+
+
+</div>
+							<!--<a class="navbar-brand scroll-hide" href="/"><img src="image/banner/logo_vertical_bl2.png" alt="" style=""><img class="logo-retina" src="image/banner/logo_vertical_bl2.png" alt="" style=""></a>-->
+							<a class="navbar-brand scroll-hide" href="/"><img src="image/banner/logo_vertical.png" alt="" style=""><img class="logo-retina" src="image/banner/logo_vertical.png" alt="" style=""></a>
+							<a class="navbar-brand scroll-show" href="/"><img class="logo-default" src="image/banner/logo_gorisont.png" alt="" style=""><img class="logo-retina" src="image/banner/logo_gorisont.png" alt="" style=""></a>  
+						</div> 
+
+						<div class="collapse navbar-collapse">
+							<ul id="main-menu" class="nav navbar-nav " style="">
+								<li><a href="/">Головна</a></li>
+								
+								<li><a href="system/storage/download/2024.pdf.iBGLK6huWd7UqALdpmGamX4WRGtb2TXs" target="_blank">Меню ресторана</a></li>
+								<li><a href="/zakazat-edu-na-dom/">Доставка їжи</a></li>
+								<li class="dropdown multi-level dropdown ">
+									<a class="dropdown-toggle" data-toggle="dropdown" href="#">Галерея</a>
+									<div class="mega-menu dropdown-menu multi-level row">
+										<div class="col">
+											<ul class="fa-ul text-s no-icons" style="margin-left:0">
+												<li><a href="/galereya-nairi-patio.html">Nairi Patio</a></li> 
+												<li><a href="/galereya-masandra-nairi.html">Ресторан - Мансарда Nairi</a></li>
+												<li><a href="/galereya-banketnie-zali-nairi.html">Банкетні зали Nairi</a></li>
+												<li><a href="/galereya-event-zone-nairi.html">Event Zone Nairi</a></li>
+												<li><a href="/kinder.html">Kinder Nairi</a></li>
+											</ul>
+										</div>
+
+									</div>
+								</li>
+								<li class=""><a href="/otzivi.html">Відгуки</a></li> 
+								<li class=""><a href="/contacts.html">Контакти</a></li>								
+							</ul> 
+
+							<div class="nav navbar-nav navbar-right">
+								<div class="shop-menu-cnt shop-menu-empty">
+									
+<div id="cart" class="btn-group btn-block">
+ <button type="button" data-loading-text="Завантаження..." class="btn-cart"><a href="https://nairi.ua/checkout/"><i class="fa fa-shopping-cart text-l i-white cart-nom qweТоварів: 0 (0.00 грн)"></i> <span class="text-s cart-nom qweТоварів: 0 (0.00 грн)" id="cart-total">Товарів: 0 (0.00 грн)</span></a></button>
+
+</div>
+
+
+ 
+								</div> 
+							</div>	
+							<div class="language_block">
+									<div class="pull-left">
+		<form action="https://nairi.ua/index.php?route=common/language/language" method="post" enctype="multipart/form-data" id="form-language">
+			<div class="btn-group">
+												<!-- <img src="catalog/language//.png" alt="" title="">-->
+											<!--<span class="hidden-xs hidden-sm hidden-md">Українська</span> <i class="fa fa-caret-down"></i></button>-->
+			<div class="btn-lang-title">Мова:</div>
+			<ul>
+									<li><button class="btn btn-link btn-block language-select" type="button" name="ru-ru">
+						<img src="catalog/language/ru-ru/ru-ru.png" alt="Рус" title="Рус"> 
+						Рус					</button>
+					</li>
+									<li class="active-lang"><button class="btn btn-link btn-block language-select" type="button" name="uk-ua">
+						<img src="catalog/language/uk-ua/uk-ua.png" alt="Укр" title="Укр"> 
+						Укр					</button>
+					</li>
+							</ul>
+		</div>
+		<input type="hidden" name="code" value="">
+		<input type="hidden" name="redirect" value="https://nairi.ua/galereya-nairi-patio.html">
+	</form>
+</div>
+							</div>
+							<ul class="nav navbar-nav navbar-right navbar-ico hidden-sm hidden-md">
+								<li><a href="https://www.instagram.com/nairipatio/" rel="nofollow" target="_blank"><i class="fa fa-instagram text-m i-white"></i></a></li>
+								<!--<li><a href="https://vk.com/nairi_zp" rel="nofollow" target="_blank" ><i class="fa fa-vk text-m i-white"></i></a></li>-->
+								<li><a href="https://www.facebook.com/profile.php?id=100089909431368" rel="nofollow" target="_blank"><i class="fa fa-facebook text-m i-white"></i></a></li>
+								<li><a href="https://www.youtube.com/channel/UC1kcQDpfjcvqIDJIpx7Mlrg" rel="nofollow" target="_blank"><i class="fa fa-youtube text-m i-white"></i></a></li>
+							</ul>
+						</div>
+						<div class="phonehead hidden-sm hidden-md">
+							<ul class="list-texts footer-phone">
+								<li><img src="image/banner/ks.png" class="phone-logo"><a class="color-b" href="tel:+380675550303">+38(067)555-03-03</a></li>
+								<li><img src="image/banner/vf.png" class="phone-logo"><a class="color-b" href="tel:+380955901212">+38(095)590-12-12</a></li>
+								<li class="green"><span class="text-s">Доставка їжи</span><br><i class="im-phone phone-logo"></i><a class="color-b" href="tel:+380671855505">+38(067)185-5505</a></li>
+							</ul>
+						</div>
+					</div>
